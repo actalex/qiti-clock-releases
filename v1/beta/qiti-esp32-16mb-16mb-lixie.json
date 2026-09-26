@@ -1,19 +1,19 @@
 {
   "cohort": "qiti-esp32-16mb-16mb-lixie",
   "filesystem": {
-    "name": "qiti-esp32-16mb-16mb-lixie-v2.0.4-beta.3-littlefs.bin",
-    "sha256": "dcd03626e7072812e0d37eb8d3d0b44528f4655dc5cfbb5e7764a36d6e58c525",
-    "sig": "MEUCIC1KlzVsOC/wI571ptstR8FildfgAPVse8RinRgkyhfOAiEA7iJ9WzyUQwk+N2KNEOqEDMScCfMdwfCCQ/+4WqrGBAA=",
+    "name": "qiti-esp32-16mb-16mb-lixie-v2.0.4-beta.4-littlefs.bin",
+    "sha256": "080da88ab72461a3e1dcab90849230cd9388fcc8addd5340c3098e8a4e5d6118",
+    "sig": "MEQCIG6kLP3emHA0HsYJ0AXeJb/GnqeGiUh+MBZtnDoYdUZVAiAawuCRAKkexWLc2gu+suozdId0LwNxhKAqz2H9GHA15g==",
     "size": 2031616,
-    "url": "https://github.com/actalex/qiti-clock-releases/releases/download/v2.0.4-beta.3/qiti-esp32-16mb-16mb-lixie-v2.0.4-beta.3-littlefs.bin"
+    "url": "https://github.com/actalex/qiti-clock-releases/releases/download/v2.0.4-beta.4/qiti-esp32-16mb-16mb-lixie-v2.0.4-beta.4-littlefs.bin"
   },
   "firmware": {
-    "name": "qiti-esp32-16mb-16mb-lixie-v2.0.4-beta.3.bin",
-    "sha256": "5c76ba66ff0f68f1b6de94830568b08c183be661b9cadaa4393326d2d2265c97",
-    "sig": "MEUCIQCvoJJWGY+Fug1TQz0gibkVV/PeZ24OJdOg/tYAobSQngIgXibWjvltfzpKSnGw9HjiYdqYFaIcX7ZdLw5Y+G5dCHg=",
-    "size": 1226080,
-    "url": "https://github.com/actalex/qiti-clock-releases/releases/download/v2.0.4-beta.3/qiti-esp32-16mb-16mb-lixie-v2.0.4-beta.3.bin"
+    "name": "qiti-esp32-16mb-16mb-lixie-v2.0.4-beta.4.bin",
+    "sha256": "b3edff5febdd175ecfb6d1fc47f81777263d720a14420ce8f9e1622a36d1fa59",
+    "sig": "MEYCIQCErtrBdU/2nFBmit1cewJ1WhriYcFASKfv0MtPWIqQUgIhAKLZ4L/MjDUfdBa2TlsNBjL+41MTBcP2HWWCqAGEdqI2",
+    "size": 1223200,
+    "url": "https://github.com/actalex/qiti-clock-releases/releases/download/v2.0.4-beta.4/qiti-esp32-16mb-16mb-lixie-v2.0.4-beta.4.bin"
   },
   "schema": 1,
-  "version": "v2.0.4-beta.3"
+  "version": "v2.0.4-beta.4"
 }
