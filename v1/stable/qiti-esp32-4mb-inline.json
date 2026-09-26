@@ -1,0 +1,19 @@
+{
+  "cohort": "qiti-esp32-4mb-inline",
+  "filesystem": {
+    "name": "qiti-esp32-4mb-inline-v2.0.3-littlefs.bin",
+    "sha256": "db85a8515da9573f295d53b8d9fe0b79e3c55159d221f9428e25f6e78ddf07e4",
+    "sig": "MEUCIQDe238mC0JTo3D+l9ueZtRBblP0vol0uNGBtbk3C4TpvgIgbNC+AGdfgHK/ofCVAW8+MSdruqVWBYByYSg110R8g1I=",
+    "size": 524288,
+    "url": "https://github.com/actalex/qiti-clock-releases/releases/download/v2.0.3/qiti-esp32-4mb-inline-v2.0.3-littlefs.bin"
+  },
+  "firmware": {
+    "name": "qiti-esp32-4mb-inline-v2.0.3.bin",
+    "sha256": "b81abb2bcc0ed5cbeabecfbc0ee411882d910060bc09d57e89fea6dc2a69225a",
+    "sig": "MEUCIQDdAACxYRP4j6/kzZVgQCtkeTg8XsyGNCSKmzxKaT30aQIgOzM4ETDmFLwQ35vwFPjOrJLkjuJmbOHTBLy7jSJSc2I=",
+    "size": 1221680,
+    "url": "https://github.com/actalex/qiti-clock-releases/releases/download/v2.0.3/qiti-esp32-4mb-inline-v2.0.3.bin"
+  },
+  "schema": 1,
+  "version": "v2.0.3"
+}
