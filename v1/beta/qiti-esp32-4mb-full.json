@@ -1,12 +1,12 @@
 {
   "cohort": "qiti-esp32-4mb-full",
   "firmware": {
-    "name": "qiti-esp32-4mb-full-v2.0.4-beta.6.bin",
-    "sha256": "421c2a1a56660e0cbc781c2e7b7d556477235ac9af554b2996a42d0410a0b94a",
-    "sig": "MEYCIQDgeg5TCiXDSHnnb6E/VpeqExfbiZ8gOmpIs7ipMMQgyAIhAIKv/uYdmOh3Kfop+35JAiNT1eyBDHtirr/gwi6i103X",
-    "size": 1307792,
-    "url": "https://github.com/actalex/qiti-clock-releases/releases/download/v2.0.4-beta.6/qiti-esp32-4mb-full-v2.0.4-beta.6.bin"
+    "name": "qiti-esp32-4mb-full-v2.0.4-beta.7.bin",
+    "sha256": "8790fd18b4b583da7f0c9a9b7e387197954d8d51ad9c99a9ee9bd0ce8487e951",
+    "sig": "MEUCIGmlz4oKXO8CH3sSQOKznw8X7qbbM9K9Pn/2KEWalHIvAiEA6LPSP3o1dt8S3+Cc+aZXOgItqcUliXPaZoSuAYSRUJA=",
+    "size": 1337024,
+    "url": "https://github.com/actalex/qiti-clock-releases/releases/download/v2.0.4-beta.7/qiti-esp32-4mb-full-v2.0.4-beta.7.bin"
   },
   "schema": 1,
-  "version": "v2.0.4-beta.6"
+  "version": "v2.0.4-beta.7"
 }
