@@ -1,12 +1,12 @@
 {
   "cohort": "qiti-esp32-4mb-lixie",
   "firmware": {
-    "name": "qiti-esp32-4mb-lixie-v2.0.4-beta.9.bin",
-    "sha256": "9d6b6b5ed40e3422c85a48d6a0f1601cd3c09cc778edbb4322fd7b8ff26965af",
-    "sig": "MEYCIQDIRS5VvDMcf3o8nzkvFourzx6R0Rz4zKSk4Ntl/gHJIAIhAObDHnAJ2e7GiHHRhE7EbzXknuUKNXI2i4ZhhmASJ8eB",
-    "size": 1332048,
-    "url": "https://github.com/actalex/qiti-clock-releases/releases/download/v2.0.4-beta.9/qiti-esp32-4mb-lixie-v2.0.4-beta.9.bin"
+    "name": "qiti-esp32-4mb-lixie-v2.0.4-beta.10.bin",
+    "sha256": "445555f76e3d914fc8784956613f76fc05421a68d1856d48dbadf50eb050ad7a",
+    "sig": "MEYCIQCArgD+xhlU8/FjSchfQtB1fwEcrueZfHFDGhuofBsspgIhAN4b4xzFYtTWzBZbWW2iBOz/RMayertNnnkIROKbX1C4",
+    "size": 1331600,
+    "url": "https://github.com/actalex/qiti-clock-releases/releases/download/v2.0.4-beta.10/qiti-esp32-4mb-lixie-v2.0.4-beta.10.bin"
   },
   "schema": 1,
-  "version": "v2.0.4-beta.9"
+  "version": "v2.0.4-beta.10"
 }

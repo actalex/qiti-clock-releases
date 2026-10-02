@@ -1,12 +1,12 @@
 {
   "cohort": "qiti-esp32-16mb-16mb-inline",
   "firmware": {
-    "name": "qiti-esp32-16mb-16mb-inline-v2.0.4-beta.9.bin",
-    "sha256": "dc7967f1da02e12db359ca66b61e1782aa3ecc7251284499f9638d089a32867c",
-    "sig": "MEUCIQDfsWdau5aPYwjdkXeUppYSRG9nD23XYjPAUIYmgF/eLwIgCAnrgkIEt1xnSlWP0EMdUNIZMEZ0a0tnzJrvh2NPYqQ=",
-    "size": 1333824,
-    "url": "https://github.com/actalex/qiti-clock-releases/releases/download/v2.0.4-beta.9/qiti-esp32-16mb-16mb-inline-v2.0.4-beta.9.bin"
+    "name": "qiti-esp32-16mb-16mb-inline-v2.0.4-beta.10.bin",
+    "sha256": "ef16166fd341b0ec9bf029028919633832bf194a59dcaf9a51e05c52966d444e",
+    "sig": "MEUCIQC3HlSilUnNiuCUVHSa47y6lRhTixPFq6pn1Hq/kWVp4wIgPOEoPMCbJ4iFFM/1lTM7xluQ8pHhJ7vDRQg2fmwcf3Y=",
+    "size": 1333392,
+    "url": "https://github.com/actalex/qiti-clock-releases/releases/download/v2.0.4-beta.10/qiti-esp32-16mb-16mb-inline-v2.0.4-beta.10.bin"
   },
   "schema": 1,
-  "version": "v2.0.4-beta.9"
+  "version": "v2.0.4-beta.10"
 }
