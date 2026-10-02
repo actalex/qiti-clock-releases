@@ -3,7 +3,7 @@
   "firmware": {
     "name": "qiti-esp32-16mb-16mb-full-v2.0.4-beta.10.bin",
     "sha256": "1688e59e32f4271c6a9850d9efd57b4fa3f732386b2abce5882e2b3abeae65be",
-    "sig": "MEUCIEpcK+1zVRoTP1w8B5yBWROagkVU5HyeytpiQQ8MxIOhAiEAxiIXdhXs1xnh9dAZRwZh+KZt0qV48Y7HeTjRkn2XWYE=",
+    "sig": "MEYCIQCi9OiQTEy85Xg6a2OmE4FtHKz8xm7ZF7SvJx1fkCuPWAIhAKlXITF3RIY7tf9qTowdEqRVaWfLHNwfsJXkUWhIN+l7",
     "size": 1341264,
     "url": "https://github.com/actalex/qiti-clock-releases/releases/download/v2.0.4-beta.10/qiti-esp32-16mb-16mb-full-v2.0.4-beta.10.bin"
   },

@@ -3,7 +3,7 @@
   "firmware": {
     "name": "qiti-s3mini-4mb-full-v2.0.4-beta.10.bin",
     "sha256": "ba8361fde4aa22b9945a4947b0047ae4bf8945fe60b51865f7d85dcbb1da350d",
-    "sig": "MEUCIBSjHOiXFkI53Sxe6NaOTpPf73mfzDOf5aXsEbnUYFw7AiEAyxXUTAwADwKH4GAvuojxG8jSAGDHW4e0WkxUNLGuksk=",
+    "sig": "MEUCIHetMhLZfOkTDIiNWsGv4AUQP9PqDH9QbSRwnYSPWegzAiEA+939RyZ35CVriD0+AZvU6XVs9CZXiHlYk/kfXD5EvKk=",
     "size": 1265120,
     "url": "https://github.com/actalex/qiti-clock-releases/releases/download/v2.0.4-beta.10/qiti-s3mini-4mb-full-v2.0.4-beta.10.bin"
   },

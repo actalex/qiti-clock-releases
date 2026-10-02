@@ -3,7 +3,7 @@
   "firmware": {
     "name": "qiti-s3mini-4mb-lixie-v2.0.4-beta.10.bin",
     "sha256": "487166ac92566ea6e430d79340ad9c12bd4e8d96f748ed13e78e5ed0b096b57e",
-    "sig": "MEUCIH1dhnQz/rQdV9J1C2NxVzCcJU0NWf2Uqeql3T2Mj5xIAiEAq0LOyoF5Rg4BNvEONvSD9uP9BrNUAsbijCeZBzXZVAI=",
+    "sig": "MEQCIEZpCPM/DMQznZs0h37cPvLqw97ST3Hf/VIddBQvxT1mAiARTuUVIx9QYbmNmo+LIlQyu34nXRZdaZJ6n2S6llhSCQ==",
     "size": 1255376,
     "url": "https://github.com/actalex/qiti-clock-releases/releases/download/v2.0.4-beta.10/qiti-s3mini-4mb-lixie-v2.0.4-beta.10.bin"
   },
