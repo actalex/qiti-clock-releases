@@ -1,12 +1,12 @@
 {
   "cohort": "qiti-s3mini-4mb-full",
   "firmware": {
-    "name": "qiti-s3mini-4mb-full-v2.0.5-beta.1.bin",
-    "sha256": "b9f6dc32a084bc4a39ed62b6efc64e58763d54dabe7ccc708e04af88836e97f4",
-    "sig": "MEQCIC6qrNui0/hVlpdNojQrloifY2XffvwW4vA13NDdjt74AiAuQK7u57pfoX8A/VDevkg8uVZrBvwX8yVo+zSADUckdQ==",
-    "size": 1265424,
-    "url": "https://github.com/actalex/qiti-clock-releases/releases/download/v2.0.5-beta.1/qiti-s3mini-4mb-full-v2.0.5-beta.1.bin"
+    "name": "qiti-s3mini-4mb-full-v2.0.5-beta.2.bin",
+    "sha256": "0e45ae2df79938262f16c190783c828777ef2d173990de4f2b847eb5f8d9111f",
+    "sig": "MEUCIQCbVFpxKzd5S/hPg8Wk8ivvwovDURtHzngHi3ptAlHDiwIgV3ielRVN4BT6zg6YYB3ohBTiCP8PKwvUAfBNCC9JyQA=",
+    "size": 1265440,
+    "url": "https://github.com/actalex/qiti-clock-releases/releases/download/v2.0.5-beta.2/qiti-s3mini-4mb-full-v2.0.5-beta.2.bin"
   },
   "schema": 1,
-  "version": "v2.0.5-beta.1"
+  "version": "v2.0.5-beta.2"
 }

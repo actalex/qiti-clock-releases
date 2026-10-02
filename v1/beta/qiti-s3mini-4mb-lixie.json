@@ -1,12 +1,12 @@
 {
   "cohort": "qiti-s3mini-4mb-lixie",
   "firmware": {
-    "name": "qiti-s3mini-4mb-lixie-v2.0.5-beta.1.bin",
-    "sha256": "2e8681d5ffb5aac2472c6174e679616f1ff7a219c91ba928411dcebc0238b53b",
-    "sig": "MEUCIAqbBPq0vIAMK1/YDazqM/3w889j8Ltr89ZdirPTJhBVAiEAoo60Ol4XXeALYqmHPt8KeMcpt0g0oK0kT5uGzEv14eA=",
+    "name": "qiti-s3mini-4mb-lixie-v2.0.5-beta.2.bin",
+    "sha256": "34947c04eb238e89da0fe71f9738e6211f51179d4f3978fa307be1a1b4160e01",
+    "sig": "MEQCIGwbvEzaVMrTc23eobsokADY6GrlQ91wVThGVGnOhFCoAiBtZYEVI/cd0C0Kkv/G4cSbTqQsuOcfhUy+qwsIkVcrPA==",
     "size": 1255728,
-    "url": "https://github.com/actalex/qiti-clock-releases/releases/download/v2.0.5-beta.1/qiti-s3mini-4mb-lixie-v2.0.5-beta.1.bin"
+    "url": "https://github.com/actalex/qiti-clock-releases/releases/download/v2.0.5-beta.2/qiti-s3mini-4mb-lixie-v2.0.5-beta.2.bin"
   },
   "schema": 1,
-  "version": "v2.0.5-beta.1"
+  "version": "v2.0.5-beta.2"
 }
