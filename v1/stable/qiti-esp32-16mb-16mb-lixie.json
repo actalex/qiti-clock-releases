@@ -1,12 +1,12 @@
 {
   "cohort": "qiti-esp32-16mb-16mb-lixie",
   "firmware": {
-    "name": "qiti-esp32-16mb-16mb-lixie-v2.0.4.bin",
-    "sha256": "c3a0e40bcbebc3b84d74b5a971fcda206cb99e77afd8bc665892e7a6aaa1a300",
-    "sig": "MEQCIDMI4VNGbPhtDGave4QXtdOAdnQd9n+/6h0V73gM1EjtAiAyAEXH8B0MyQgGXzPckpbzJkXo6f9hVRDhSXaIrnvFwg==",
+    "name": "qiti-esp32-16mb-16mb-lixie-v2.0.5.bin",
+    "sha256": "03dc24e2dedbe5fab963525c9d6e02a1f9dbc252817818e09f0bb2d721e64f21",
+    "sig": "MEQCIA7zw8iqwK11wPYgflKvnEEXAnG8EDl+nM/xmqJE1z+6AiAG1roPEDxFhCYPUi99ibCOLIyIIz0BdkKZsLOl/AEA4g==",
     "size": 1331952,
-    "url": "https://github.com/actalex/qiti-clock-releases/releases/download/v2.0.4/qiti-esp32-16mb-16mb-lixie-v2.0.4.bin"
+    "url": "https://github.com/actalex/qiti-clock-releases/releases/download/v2.0.5/qiti-esp32-16mb-16mb-lixie-v2.0.5.bin"
   },
   "schema": 1,
-  "version": "v2.0.4"
+  "version": "v2.0.5"
 }
