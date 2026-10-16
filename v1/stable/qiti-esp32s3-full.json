@@ -1,0 +1,12 @@
+{
+  "cohort": "qiti-esp32s3-full",
+  "firmware": {
+    "name": "qiti-esp32s3-full-v2.0.6.bin",
+    "sha256": "b95513427155d25e9dbbd6fb2f5225cbda88261b2dee9646a88df339608811b5",
+    "sig": "MEUCIGTiheNkDWv2Pypw+hxneFCvVfm8IlZq1FJd7VtEJd81AiEA2LLWNWWNOsKFr4b4We1IvE0ObAdvMFJM6HZwdcuqNos=",
+    "size": 1288112,
+    "url": "https://github.com/actalex/qiti-clock-releases/releases/download/v2.0.6/qiti-esp32s3-full-v2.0.6.bin"
+  },
+  "schema": 1,
+  "version": "v2.0.6"
+}
